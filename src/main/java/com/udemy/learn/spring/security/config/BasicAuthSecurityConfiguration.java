@@ -23,4 +23,6 @@ public class BasicAuthSecurityConfiguration{
         return http.build();
     }
 
+    // For CORS policy, we can do a global cors policy here and a local policy at every controller
+
 }
