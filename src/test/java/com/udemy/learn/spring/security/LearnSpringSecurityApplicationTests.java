@@ -1,4 +1,4 @@
-package com.udemy.learn_spring_security;
+package com.udemy.learn.spring.security;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
